@@ -52,7 +52,7 @@ export default function PostPage() {
                             <MenuIcon />
                         </IconButton>
                         <Typography sx={{ paddingTop: '3px' }} variant="h6" noWrap component="div">
-                            COBHAM SATCOM
+                            Malar Ruban
                         </Typography>
                     </Box>
                     <UserBox>
